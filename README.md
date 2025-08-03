@@ -35,17 +35,16 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-665CBE?logo=openai&logoColor=white)
 
 ---
-
+<!--
 ### 🚀 Currently Building
 | Project | What it does | Repo / Demo |
 |---------|--------------|-------------|
-| **Rental WebApp** | Telegram Web App for real-estate investors | <!-- `invest-rent-webapp` --> private |
-| **AI-Telegram-News** | GPT assistant to automate republıshing Telegram news | <!-- `ai-tg-news` --> private |
+| **Rental WebApp** | Telegram Web App for real-estate investors | `invest-rent-webapp` private |
+| **AI-Telegram-News** | GPT assistant to automate republıshing Telegram news | `ai-tg-news` private |
 | **Tap Connect Bot** | Matching Web App - pet-project with nice gamification | private → public v0.1 soon |
 
 ---
 
-<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OstapCombo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
