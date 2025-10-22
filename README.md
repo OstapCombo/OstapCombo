@@ -2,7 +2,7 @@
 
 <h1 align="center">✦ Ostap Combo ✦</h1>
 <p align="center">
-  🏝️ <strong>Bali-based AI Automation Architect</strong><br>
+  🏝️ <strong>AI Automation Architect</strong><br>
   8 + years · Python · Django · React · Telegram Bots & Web Apps · AI Agents
 </p>
 
