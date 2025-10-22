@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://threads.net/@ostap.combo">
+  <!-- <a href="https://threads.net/@ostap.combo">
     <img src="https://img.shields.io/badge/Threads-000?style=for-the-badge&logo=threads&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://t.me/O_Combo">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
